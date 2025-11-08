@@ -1,3 +1,5 @@
+Course 8 - Building Generative AI - Powered Applications with Python, Module 5 lab  Supports uploading a PDF file for RAG
+
 ## How to get watsonx API key and Project ID
 
 Here, we initialize a language model and its embeddings. Here's a brief description of each section of the script:
